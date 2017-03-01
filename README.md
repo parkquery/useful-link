@@ -6,3 +6,6 @@
 
 ## 기술블로그
 * [오늘도 끄적끄적](https://perfectacle.github.io)
+
+## 좋은 글
+* [개발자들이여 공부하라](https://brunch.co.kr/@techhtml/2)
