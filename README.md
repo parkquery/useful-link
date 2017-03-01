@@ -13,6 +13,8 @@
 * [신입 개발자 생활백서](https://www.slideshare.net/jayjin0427/ss-71896768)
 * [왜 JQUERY를 사용하는가?](http://unikys.tistory.com/300)
 * ["use strict", strict mode 란 무엇인가? 왜 써야되나?](http://hmmim.tistory.com/5)
+* [[번역] 2017년 개발자 이력서 작성 가이드](https://brunch.co.kr/@imagineer/215)
 
 ## 기술 참고
 * [iscroll 샘플](http://romeoh78.blogspot.kr/2013/07/bounce-iscroll-windows8-ie10-iscroll.html?m=1)
+* [D3.js 시작하기](http://webframeworks.kr/getstarted/d3js/)
