@@ -6,9 +6,9 @@
 
 ## 기술블로그
 * [오늘도 끄적끄적](https://perfectacle.github.io)
-* [PoiemaWeb](http://poiemaweb.com)
+* [PoiemaWeb](http://poiemaweb.com) ***
 * [Insanehong](http://insanehong.kr)
-* [](https://javarouka.github.io/blog)
+* [JavaRouka's Note](https://javarouka.github.io/blog) **
 
 ## 좋은 글
 * [개발자들이여 공부하라](https://brunch.co.kr/@techhtml/2)
