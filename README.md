@@ -18,6 +18,7 @@
 * [D3.js 시작하기](http://webframeworks.kr/getstarted/d3js/)
 * [초보자를 위한 정규 표현식 가이드 (자바스크립트 기준)](https://www.slideshare.net/mobile/ibare/ss-39274621)
 * [Android, IOS Webview 개발 팁](http://superjang.com/archives/2980)
+* [jQuery - focus/blur 와 focusin/focusout 의 차이](http://ibrahimovic.tistory.com/13)
 
 ## special
 * [CSS Diner](https://flukeout.github.io)
