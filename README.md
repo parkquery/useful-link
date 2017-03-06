@@ -23,6 +23,7 @@
 * [bxslider ios웹뷰에서 스크롤과 동시에 슬라이드할때 멈춤(freezes) 현상 해결!](http://starkey1984.blogspot.kr/2016/04/bxslider-ios-freezes.html)
 * [[운영체제] 프로세스가 뭐지?](http://bowbowbow.tistory.com/16)
 * [116 CSS Menu](http://freefrontend.com/css-menu)
+* [JQuery 플러그인 만들기](http://zetawiki.com/wiki/JQuery_%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8_%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ## special
 * [CSS Diner](https://flukeout.github.io)
