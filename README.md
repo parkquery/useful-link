@@ -5,6 +5,7 @@
 * [Insanehong](http://insanehong.kr)
 * [JavaRouka's Note](https://javarouka.github.io/blog) ++
 * [SUPERJANG](http://superjang.com)
+* [Web Club](http://webclub.tistory.com)
 
 ## 좋은 글
 * [개발자들이여 공부하라](https://brunch.co.kr/@techhtml/2)
