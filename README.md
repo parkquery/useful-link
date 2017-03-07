@@ -17,7 +17,7 @@
 
 ## 기술 참고
 
-### javascript
+### JAVASCRIPT
 * [iscroll 샘플](http://romeoh78.blogspot.kr/2013/07/bounce-iscroll-windows8-ie10-iscroll.html?m=1)
 * [D3.js 시작하기](http://webframeworks.kr/getstarted/d3js/)
 * [초보자를 위한 정규 표현식 가이드 (자바스크립트 기준)](https://www.slideshare.net/mobile/ibare/ss-39274621)
