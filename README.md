@@ -29,6 +29,7 @@
 
 #### CSS
 * [116 CSS Menu](http://freefrontend.com/css-menu)
+* [word-wrap, word-break 줄바꿈 속성 차이](http://ohgyun.com/680)
 
 #### ETC
 * [[운영체제] 프로세스가 뭐지?](http://bowbowbow.tistory.com/16)
