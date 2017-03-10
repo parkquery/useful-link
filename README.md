@@ -24,8 +24,9 @@
 * [Android, IOS Webview 개발 팁](http://superjang.com/archives/2980)
 * [jQuery - focus/blur 와 focusin/focusout 의 차이](http://ibrahimovic.tistory.com/13)
 * [bxslider ios웹뷰에서 스크롤과 동시에 슬라이드할때 멈춤(freezes) 현상 해결!](http://starkey1984.blogspot.kr/2016/04/bxslider-ios-freezes.html)
-* [JQuery 플러그인 만들기](http://zetawiki.com/wiki/JQuery_%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8_%EB%A7%8C%EB%93%A4%EA%B8%B0)
+* [[ZETAWIKI]]JQuery 플러그인 만들기](http://zetawiki.com/wiki/JQuery_%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8_%EB%A7%8C%EB%93%A4%EA%B8%B0)
 * [event.target 사용해서 클릭되는 요소 체크하기](http://solmaru.tistory.com/entry/eventtarget-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%81%B4%EB%A6%AD%EB%90%98%EB%8A%94-%EC%9A%94%EC%86%8C-%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0)
+* [jQuery: plugin's destroy method](https://jsfiddle.net/gabrieleromanato/zEjdR)
 
 #### CSS
 * [116 CSS Menu](http://freefrontend.com/css-menu)
