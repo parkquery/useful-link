@@ -1,4 +1,4 @@
-[click on this link](#my-multi-word-header)
+[click on this link](#javascript)
 
 
 
@@ -49,5 +49,3 @@
 ## jekyll theme
 * [New Age](https://jekynewage.github.io) [one page scroll]
 * [Jalpc](http://www.jarrekk.com/) [category, search]
-
-### My Multi Word Header
