@@ -43,4 +43,5 @@
 * [FRONT-END 면접 문제 은행](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/Translations/Korean/README.md)
 
 ## jekyll theme
-* [New Age](https://jekynewage.github.io)
+* [New Age](https://jekynewage.github.io) [one page scroll]
+* [Jalpc](http://www.jarrekk.com/) [category, search]
