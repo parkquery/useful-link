@@ -52,7 +52,7 @@
 * [FRONT-END 면접 문제 은행](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/Translations/Korean/README.md)
 
 ## Tool
-* [stackedit](https://stackedit.io) - 마크다운 웹 에디터
+* [stackedit](https://stackedit.io) - 마크다운 웹 에디터 
 
 ## jekyll theme
 * [New Age](https://jekynewage.github.io) - one page scroll
