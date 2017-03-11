@@ -4,7 +4,7 @@
 * [기술 참고](#기술-참고)
 * [special](#special)
 * [참고사이트](#참고사이트)
-* [Tool](#Tool)
+* [Tool](#tool)
 * [jekyll theme](#jekyll-theme)
 
 ## 기술블로그
