@@ -1,4 +1,4 @@
-[click on this link](#javascript)
+[click on this link](#기술블로그)
 
 
 
