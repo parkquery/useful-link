@@ -42,5 +42,5 @@
 * [하코사](https://hacosa.co.kr)
 * [FRONT-END 면접 문제 은행](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/Translations/Korean/README.md)
 
-## jykyll theme
+## jekyll theme
 * [New Age](https://jekynewage.github.io)
