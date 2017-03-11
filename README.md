@@ -53,3 +53,4 @@
 ## jekyll theme
 * [New Age](https://jekynewage.github.io) [one page scroll]
 * [Jalpc](http://www.jarrekk.com/) [category, search]
+* [Halve](https://taylantatli.github.io/Halve) [stylish]
