@@ -1,10 +1,10 @@
-# 목차
+### 목차
 * [기술블로그](#기술블로그)
 * [좋은 글](#좋은-글)
-* [기술 참고](#기술-)
+* [기술 참고](#기술-참고)
 * [special](#special)
 * [참고사이트](#참고사이트)
-* [jekyll theme](jekyll-theme)
+* [jekyll theme](#jekyll-theme)
 
 ## 기술블로그
 * [PoiemaWeb](http://poiemaweb.com) ++
