@@ -51,7 +51,7 @@
 * [하코사](https://hacosa.co.kr)
 * [FRONT-END 면접 문제 은행](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/Translations/Korean/README.md)
 * [web devices capabilities](http://mydevice.io/) - 웹, 모바일 디바이스 width, pixel-ratio, ppi 정보
-* [Code On Web](https://codeonweb.com/)
+* [Code On Web](https://codeonweb.com/) - 코드 실습, 학습
 
 ## Tool
 * [stackedit](https://stackedit.io) - 마크다운 웹 에디터 
