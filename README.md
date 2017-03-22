@@ -43,6 +43,7 @@
 
 #### ETC
 * [[운영체제] 프로세스가 뭐지?](http://bowbowbow.tistory.com/16)
+* [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
 
 ## special
 * [CSS Diner](https://flukeout.github.io)
