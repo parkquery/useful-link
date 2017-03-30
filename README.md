@@ -37,6 +37,7 @@
 * [[ZETAWIKI] jQuery 플러그인 만들기](http://zetawiki.com/wiki/JQuery_%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8_%EB%A7%8C%EB%93%A4%EA%B8%B0)
 * [event.target 사용해서 클릭되는 요소 체크하기](http://solmaru.tistory.com/entry/eventtarget-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%81%B4%EB%A6%AD%EB%90%98%EB%8A%94-%EC%9A%94%EC%86%8C-%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0)
 * [jQuery: plugin's destroy method](https://jsfiddle.net/gabrieleromanato/zEjdR)
+* [JSON Example](http://json.org/example.html)
 
 #### CSS
 * [116 CSS Menu](http://freefrontend.com/css-menu)
