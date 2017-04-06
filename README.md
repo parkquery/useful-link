@@ -58,6 +58,7 @@
 
 ## Tool
 * [stackedit](https://stackedit.io) - 마크다운 웹 에디터 
+* [Vimeo Player API](https://github.com/vimeo/player.js)
 
 ## jekyll theme
 * [New Age](https://jekynewage.github.io) - one page scroll
