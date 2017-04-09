@@ -40,6 +40,7 @@
 * [JSON Example](http://json.org/example.html)
 * [jQuery는 이벤트를 어떻게 처리하는가?](http://d2.naver.com/helloworld/1855209) - NAVER D2 ++
 * [React.js 실서비스 적용기](http://slides.com/roto/react-js-live-service#/) - 슬라이드
+* [React Watch](http://codepen.io/SuperDean/pen/evQMLo) - codepen
 
 #### CSS
 * [116 CSS Menu](http://freefrontend.com/css-menu)
