@@ -24,6 +24,7 @@
 * [왜 JQUERY를 사용하는가?](http://unikys.tistory.com/300)
 * ["use strict", strict mode 란 무엇인가? 왜 써야되나?](http://hmmim.tistory.com/5)
 * [[번역] 2017년 개발자 이력서 작성 가이드](https://brunch.co.kr/@imagineer/215)
+* [2016년에 자바스크립트를 배우는 기분](http://www.looah.com/article/view/2054)
 
 ## 기술 참고
 
